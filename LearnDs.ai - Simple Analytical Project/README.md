@@ -5,17 +5,18 @@ This repo includes hands-on exercises and a mini-project designed to help you ap
 
 ## What’s Inside?
 Your local folder should follow this structure:
-
+```
 LearnDS.ai - Simple Analytical Project/
 ├── data/
 │ └── [Put your raw dataset(s) here]
 ├── PartI - Cleaning the Data.ipynb
 ├── PartII - DataViz.ipynb
 └── API_simple_exercise.ipynb
+```
 
 ## 📘 Notebooks
 
-![alt text](image-1.png)
+![image.png](imgs/learnds_apis.png)
 
 ### 1. `API_simple_exercise.ipynb`  
 🔹 **Skill practiced**: Basic API requests and handling responses using Python.  
@@ -28,7 +29,7 @@ LearnDS.ai - Simple Analytical Project/
 
 ### 2. `PartI - Cleaning the Data.ipynb`  
 
-![alt text](image-2.png)
+![image.png](imgs/learnds_project1.png)
 
 🧹 **Skill practiced**: Data cleaning & preprocessing.  
 🔹 **Topics covered**:
@@ -41,7 +42,7 @@ LearnDS.ai - Simple Analytical Project/
 
 ### 3. `PartII - DataViz.ipynb`  
 
-![alt text](image-3.png)
+![image.png](imgs/learnds_project2.png)
 
 📊 **Skill practiced**: Exploratory Data Analysis (EDA) and visualization.  
 🔹 **What you'll do**:
