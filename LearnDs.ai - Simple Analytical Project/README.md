@@ -16,7 +16,7 @@ LearnDS.ai - Simple Analytical Project/
 
 ## 📘 Notebooks
 
-![image.png](imgs/learnds_apis.png)
+![image.png](../imgs/learnds_apis.png)
 
 ### 1. `API_simple_exercise.ipynb`  
 🔹 **Skill practiced**: Basic API requests and handling responses using Python.  
@@ -29,7 +29,7 @@ LearnDS.ai - Simple Analytical Project/
 
 ### 2. `PartI - Cleaning the Data.ipynb`  
 
-![image.png](imgs/learnds_project1.png)
+![image.png](../imgs/learnds_project1.png)
 
 🧹 **Skill practiced**: Data cleaning & preprocessing.  
 🔹 **Topics covered**:
@@ -42,7 +42,7 @@ LearnDS.ai - Simple Analytical Project/
 
 ### 3. `PartII - DataViz.ipynb`  
 
-![image.png](imgs/learnds_project2.png)
+![image.png](../imgs/learnds_project2.png)
 
 📊 **Skill practiced**: Exploratory Data Analysis (EDA) and visualization.  
 🔹 **What you'll do**:
